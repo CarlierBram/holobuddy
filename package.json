@@ -1,0 +1,27 @@
+{
+  "name": "h-server",
+  "version": "1.0.0",
+  "description": "This is a test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo this is a test"
+  },
+  "author": "bram-c",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "markovchain-generate": "^1.0.11",
+    "markov-strings": "^1.3.4",
+    "npm": "^3.10.10",
+    "pug": "^2.0.0-rc.4",
+    "say": "^0.13.1",
+    "socket.io": "^2.0.4",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "example",
+    "heroku"
+  ]
+}
